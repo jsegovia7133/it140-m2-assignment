@@ -210,14 +210,14 @@ TODO: Replace this text with your explanation of requirement 1.5 in your own wor
 
 > Before completing the Design sections of this worksheet, review:
 >
-> * [ ] [Software Design Document (SDD)](./design/name_age_sdd.md)
+> * [X] [Software Design Document (SDD)](./design/name_age_sdd.md)
 >   * `## 2. Solution Overview`
 >   * `## 4. Data Design`
 >   * `## 5. Interface and Input/Output Design`
 >   * `## 6. Program Logic and Control Flow`
 >   * `### 6.1 Main Processing Steps`
-> * [ ] [Flowchart](./design/name_age.drawio) → **Flowchart** page; follow the path from **Start** to **End**
-> * [ ] [Pseudocode](./design/name_age.pseudo) → read the algorithm from **START name_age** through **END name_age**
+> * [X] [Flowchart](./design/name_age.drawio) → **Flowchart** page; follow the path from **Start** to **End**
+> * [X] [Pseudocode](./design/name_age.pseudo) → read the algorithm from **START name_age** through **END name_age**
 >
 > Remember:
 >
@@ -243,7 +243,7 @@ TODO: Replace this text with your explanation of requirement 1.5 in your own wor
 >
 > Enter your response below.
 
-TODO: Replace this text with your explanation of how the design addresses requirement 1.3.
+the design converts the users age into an integer that can be used to calculate their birth year.
 
 #### SRS Requirement 1.4
 
@@ -257,7 +257,7 @@ TODO: Replace this text with your explanation of how the design addresses requir
 >
 > Enter your response below.
 
-TODO: Replace this text with your explanation of how the design addresses requirement 1.4.
+the design get the current year from the system and subtracts the users age to calculate their birth year
 
 ### 9. Check the Plan With an Example
 
@@ -273,9 +273,9 @@ TODO: Replace this text with your explanation of how the design addresses requir
 >
 > Enter your response below.
 
-* Current year: TODO: Replace with the current year from Test 1.
-* User name: TODO: Replace with the user name from Test 1.
-* User age: TODO: Replace with the user age from Test 1.
+* Current year:  2026
+* User name: Jordan
+* User age: 25
 
 #### Test Processing
 
@@ -289,7 +289,7 @@ TODO: Replace this text with your explanation of how the design addresses requir
 >
 > Enter your calculation below.
 
-User's approximate birth year = TODO: Replace with the calculation using the Test 1 values (e.g., current year - user age).
+User's approximate birth year = 2026 - 25 = 2001
 
 #### Expected Output
 
@@ -298,12 +298,14 @@ User's approximate birth year = TODO: Replace with the calculation using the Tes
 > **Prompt:** Record the expected output for Test 1.
 >
 > Enter your response below.
+> 
+> Hello Jordan! You were born in 2001.
 
 Expected output for Test 1:
 
 > Compare your hand-calculated result with the expected result:
 >
-> * [ ] My result matches the expected result.
+> * [X] My result matches the expected result.
 > * [ ] My result does not match. I need to review the SRS and design before continuing.
 
 ### 10. Questions or Unclear Information
@@ -323,7 +325,7 @@ Expected output for Test 1:
 >
 > Enter your response below. Use a separate numbered bullet for each question or unclear item.
 
-1. TODO: Replace with your first question or unclear item, or enter **None** if everything is clear.
+1. None
 
 > If you cannot resolve a repository or course-IDE question, use the [Module Two Assignment GitHub Discussions](https://github.com/GC-STEM/it140-m2-assignment/discussions). Use [GitHub Issues](https://github.com/GC-STEM/it140-m2-assignment/issues) to report a technical problem with the provided repository files or tools. Contact your instructor through D2L Brightspace for questions about assignment requirements, grading, or feedback.
 
@@ -342,12 +344,12 @@ Expected output for Test 1:
 >
 > Before continuing to the Construct phase, make sure:
 >
-> * [ ] I can explain what the program must accomplish.
-> * [ ] I understand its inputs, processing, and outputs.
-> * [ ] I understand the major steps in the provided design.
-> * [ ] I checked the design using a provided acceptance test case.
-> * [ ] I recorded or resolved anything that was unclear.
-> * [ ] I am ready to use the starter code to construct the program.
+> * [X] I can explain what the program must accomplish.
+> * [X] I understand its inputs, processing, and outputs.
+> * [X] I understand the major steps in the provided design.
+> * [X] I checked the design using a provided acceptance test case.
+> * [X] I recorded or resolved anything that was unclear.
+> * [X] I am ready to use the starter code to construct the program.
 >
 > When these checks are complete, continue to the [Construct phase](./src/README.md).
 
