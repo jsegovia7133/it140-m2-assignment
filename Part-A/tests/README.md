@@ -300,15 +300,15 @@ If you use both testing methods, a useful order is:
 
 Before continuing to Submit, make sure:
 
-* [ ] I can run `name_age.py` without a Python error.
-* [ ] I compared my program's behavior with the SRS requirements.
-* [ ] I corrected problems I found during testing.
-* [ ] I ran my program again after making corrections.
-* [ ] If I used Sense, I reviewed its feedback and made appropriate corrections.
-* [ ] If I used the local automated tests, I understand whether all five tests passed.
-* [ ] I did not modify the provided `test_name_age.py` file.
-* [ ] My final `name_age.py` file is saved and ready to submit.
-* [ ] I also completed the separate IDE Features Reflection deliverable.
+* [X] I can run `name_age.py` without a Python error.
+* [X] I compared my program's behavior with the SRS requirements.
+* [X] I corrected problems I found during testing.
+* [X] I ran my program again after making corrections.
+* [X] If I used Sense, I reviewed its feedback and made appropriate corrections.
+* [X] If I used the local automated tests, I understand whether all five tests passed.
+* [X] I did not modify the provided `test_name_age.py` file.
+* [X] My final `name_age.py` file is saved and ready to submit.
+* [X] I also completed the separate IDE Features Reflection deliverable.
 
 ## Help and Support
 
