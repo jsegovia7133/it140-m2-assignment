@@ -300,17 +300,17 @@ The **module docstring remains your own original writing**, even if AI assistanc
 
 Before continuing to the Test phase, make sure:
 
-* [ ] I changed only lines marked with `TODO:`.
-* [ ] I completed the module docstring in my own words.
-* [ ] My module docstring describes the program's input, process, and output.
-* [ ] My usage example uses original values rather than copying a provided example.
-* [ ] I left the import, constant, `main()` definition, and main guard unchanged.
-* [ ] My Python code inside `main()` remains indented four spaces.
-* [ ] I used the provided pseudocode as my coding guide.
-* [ ] I ran the program after making small changes and corrected syntax errors.
-* [ ] I added references for outside sources I used or deleted unused reference TODOs.
-* [ ] No `TODO:` lines remain in my completed file.
-* [ ] I saved `name_age.py` and can run it without a Python error.
+* [X] I changed only lines marked with `TODO:`.
+* [X] I completed the module docstring in my own words.
+* [X] My module docstring describes the program's input, process, and output.
+* [X] My usage example uses original values rather than copying a provided example.
+* [X] I left the import, constant, `main()` definition, and main guard unchanged.
+* [X] My Python code inside `main()` remains indented four spaces.
+* [X] I used the provided pseudocode as my coding guide.
+* [X] I ran the program after making small changes and corrected syntax errors.
+* [X] I added references for outside sources I used or deleted unused reference TODOs.
+* [X] No `TODO:` lines remain in my completed file.
+* [X] I saved `name_age.py` and can run it without a Python error.
 
 ## Help and Support
 
